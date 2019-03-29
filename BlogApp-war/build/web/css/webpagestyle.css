@@ -1,0 +1,64 @@
+.well{
+    border-style: none;
+    background-color: #796796;
+}
+
+.well-sm{
+    width: 60%;
+    background-color: #796796;
+    border-style: none;
+}
+
+.well-lg{
+    width: 60%; 
+    height: 140px;
+}
+
+.form-add{
+    height: 480px;
+}
+
+.view-post{
+    height: 100%;
+}
+
+.form-control{
+    width: 90%;
+}
+
+.text-box{
+    height: 200px;
+}
+
+.p {
+    padding: 5px;
+}
+
+body{
+    color: white;
+}
+
+.btn{
+    margin: 3px;
+}
+
+.navigation-bar{
+    background-color: #301166;
+}
+
+#navbar-text{
+    color: white;
+}
+
+.container-fluid{
+    /*padding-left: 10px;*/
+    border-style: none;
+}
+
+a{
+    color: white;
+}
+
+a:hover{
+    color: white;
+}
